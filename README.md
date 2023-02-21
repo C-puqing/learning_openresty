@@ -1,0 +1,2 @@
+# learning_openresty
+从零开始学习openresty的使用，期间补充nginx和lua的知识储备
